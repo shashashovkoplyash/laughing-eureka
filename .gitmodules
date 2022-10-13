@@ -1,3 +1,6 @@
 [submodule "1234"]
 	path = 1234
 	url = https://github.com/shashashovkoplyash/1234.git
+[submodule "geometric_lib"]
+	path = geometric_lib
+	url = https://github.com/smartiqaorg/geometric_lib
